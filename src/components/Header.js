@@ -45,6 +45,7 @@ const Nav = styled.nav`
     display: flex;
     align-items: center;
     padding: 0 36px;
+    overflow-x: hidden;
 `
 
 const Logo = styled.img`
@@ -99,6 +100,6 @@ const UserImg = styled.img`
 width: 48px;
 height : 48px;
 border-radius: 50%;
-border: 3px solid white;
+border: 2px solid white;
 cursor: pointer; 
 `
