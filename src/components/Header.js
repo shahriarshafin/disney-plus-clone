@@ -24,7 +24,7 @@ function Header() {
                      <span>ORIGINALS</span>
                  </a>
                  <a>
-                     <img src="/images/movies-icon.svg" alt=""/>
+                     <img src="/images/movie-icon.svg" alt=""/>
                      <span>MOVIES</span>
                  </a>
                  <a>
@@ -99,5 +99,6 @@ const UserImg = styled.img`
 width: 48px;
 height : 48px;
 border-radius: 50%;
+border: 3px solid white;
 cursor: pointer; 
 `
