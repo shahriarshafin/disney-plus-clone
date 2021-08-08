@@ -1,7 +1,9 @@
+# Disney Plus Clone
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.<br>
 Live : https://clonedisneyplus.netlify.app/
 
-![image](https://raw.githubusercontent.com/shahriarshafin/disney-plus-clone/master/public/images/screenshot.png)
+<a href="https://clonedisneyplus.netlify.app/"><img src="https://raw.githubusercontent.com/shahriarshafin/disney-plus-clone/master/public/images/screenshot.png" alt="home-page"></a>
 
 ## Available Scripts
 
